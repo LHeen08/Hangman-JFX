@@ -49,7 +49,7 @@ public class GameController implements Initializable {
 
 
     //  Guesses remaining should be dependent on the difficulty
-    //  Easy - 8 or less characters?
+    //  Easy - up to 7
     //  Medium - 8-12
     //  Hard - 12 +
     //  Guesses..
