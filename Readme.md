@@ -40,8 +40,8 @@ Run the app in your preferred IDE
 If using another java version besides 8 change the pom.xml accordingly
 ```
     <properties>
-        <maven.compiler.source>{Enter java version here}</maven.compiler.source>
-        <maven.compiler.target>{Enter java version here}</maven.compiler.target>
+        <maven.compiler.source>{Edit java version here}</maven.compiler.source>
+        <maven.compiler.target>{Edit java version here}</maven.compiler.target>
     </properties>
 ```
 ```
