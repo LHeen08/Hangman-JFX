@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/11" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javaCode.Controllers.GameController">
+  <columnConstraints>
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <Pane style="-fx-background-color: #79C3CB;">
+         <children>
+            <VBox prefHeight="218.0" prefWidth="379.0" spacing="15.0">
+               <children>
+                  <Label alignment="CENTER" text="Hangman">
+                     <font>
+                        <Font name="System Bold" size="50.0" />
+                     </font>
+                  </Label>
+                  <HBox prefHeight="100.0" prefWidth="200.0" spacing="10.0">
+                     <children>
+                        <Label alignment="TOP_LEFT" text="Category:">
+                           <font>
+                              <Font size="25.0" />
+                           </font>
+                        </Label>
+                        <Text fx:id="outputCategory" strokeType="OUTSIDE" strokeWidth="0.0" text="Text">
+                           <font>
+                              <Font size="25.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </HBox>
+                  <HBox prefHeight="100.0" prefWidth="50.0" spacing="10.0">
+                     <children>
+                        <Label alignment="TOP_LEFT" text="Guesses remaining:">
+                           <font>
+                              <Font size="25.0" />
+                           </font>
+                        </Label>
+                        <Text fx:id="outputGuesses" strokeType="OUTSIDE" strokeWidth="0.0" text="Text">
+                           <font>
+                              <Font size="25.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </HBox>
+               </children>
+               <padding>
+                  <Insets left="20.0" top="10.0" />
+               </padding>
+            </VBox>
+            <HBox alignment="CENTER" layoutX="221.0" layoutY="350.0" prefHeight="100.0" prefWidth="843.0">
+               <children>
+                  <Text fx:id="outputPhrase" strokeType="OUTSIDE" strokeWidth="0.0" text="Phrase" HBox.hgrow="SOMETIMES">
+                     <font>
+                        <Font size="40.0" />
+                     </font>
+                  </Text>
+               </children>
+            </HBox>
+            <Button fx:id="btnExit" layoutX="1223.0" layoutY="760.0" mnemonicParsing="false" onAction="#exitGame" text="Exit" />
+            <VBox alignment="CENTER" layoutX="9.0" layoutY="518.0" prefHeight="205.0" prefWidth="1262.0">
+               <children>
+                  <HBox alignment="CENTER" prefHeight="235.0" prefWidth="1262.0" spacing="20.0">
+                     <children>
+                        <Button fx:id="btnKeyA" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="A" />
+                        <Button fx:id="btnKeyB" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="B" />
+                        <Button fx:id="btnKeyC" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="C" />
+                        <Button fx:id="btnKeyD" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="D" />
+                        <Button fx:id="btnKeyE" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="E" />
+                        <Button fx:id="btnKeyF" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="F" />
+                        <Button fx:id="btnKeyG" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="G" />
+                        <Button fx:id="btnKeyH" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="H" />
+                        <Button fx:id="btnKeyI" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="I" />
+                        <Button fx:id="btnKeyJ" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="J" />
+                        <Button fx:id="btnKeyK" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="K" />
+                        <Button fx:id="btnKeyL" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="L" />
+                        <Button fx:id="btnKeyM" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="M" />
+                        <Button fx:id="btnKeyN" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="N" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER" prefHeight="235.0" prefWidth="1262.0" spacing="20.0">
+                     <children>
+                        <Button fx:id="btnKeyO" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="O" />
+                        <Button fx:id="btnKeyP" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="P" />
+                        <Button fx:id="btnKeyQ" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="Q" />
+                        <Button fx:id="btnKeyR" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="R" />
+                        <Button fx:id="btnKeyS" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="S" />
+                        <Button fx:id="btnKeyT" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="T" />
+                        <Button fx:id="btnKeyU" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="U" />
+                        <Button fx:id="btnKeyV" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="V" />
+                        <Button fx:id="btnKeyW" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="W" />
+                        <Button fx:id="btnKeyX" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="X" />
+                        <Button fx:id="btnKeyY" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="Y" />
+                        <Button fx:id="btnKeyZ" mnemonicParsing="false" onAction="#btnPressed" prefHeight="40.0" prefWidth="40.0" text="Z" />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+            <Button fx:id="btnBackToMain" layoutX="14.0" layoutY="760.0" mnemonicParsing="false" text="Back" />
+            <StackPane layoutX="730.0" prefHeight="400.0" prefWidth="550.0">
+               <children>
+                  <ImageView fx:id="imgBase" fitHeight="400.0" fitWidth="550.0">
+                     <image>
+                        <Image url="@Base.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="imgHead" fitHeight="400.0" fitWidth="550.0">
+                     <image>
+                        <Image url="@head.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="imgBody" fitHeight="400.0" fitWidth="550.0">
+                     <image>
+                        <Image url="@body.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="imgArm1" fitHeight="400.0" fitWidth="550.0">
+                     <image>
+                        <Image url="@arm1.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="imgArm2" fitHeight="400.0" fitWidth="550.0">
+                     <image>
+                        <Image url="@arm2.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="imgLeg1" fitHeight="400.0" fitWidth="550.0">
+                     <image>
+                        <Image url="@leg1.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="imgLeg2" fitHeight="400.0" fitWidth="550.0">
+                     <image>
+                        <Image url="@leg2.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </StackPane>
+         </children>
+      </Pane>
+   </children>
+</GridPane>

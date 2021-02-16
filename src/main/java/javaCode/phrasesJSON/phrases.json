@@ -1,0 +1,7642 @@
+[
+  {
+    "word": "ACORN SQUASH",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ALFALFA SPROUTS",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "ALMOND",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ANCHOVY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ANISE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "APPETIZER",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "APPETITE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "APPLE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "APRICOT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ARTICHOKE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ASPARAGUS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ASPIC",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ATE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "AVOCADO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BACON",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BAGEL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BAKE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BAMBOO SHOOTS",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "BANANA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BARBECUE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BARLEY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BASIL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BATTER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BEANCURD",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BEANS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BEEF",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BEET",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BELL PEPPER",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BERRY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BISCUIT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BITTER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BLACKBEANS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BLACKBERRY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BLACK EYED PEAS",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "BLAND",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BLOOD ORANGE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BLUEBERRY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BOIL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOWL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOYSENBERRY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BRAN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BREAD",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BREADFRUIT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BREAKFAST",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BROCCOLI",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BROIL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BROWNIE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BROWN RICE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BRUNCH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BRUSSELS SPROUTS",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "BUCKWHEAT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BUNS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BURRITO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BUTTER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CAKE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CALORIE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CANDY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CANTALOUPE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CAPERS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CARAMEL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CARBOHYDRATE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CARROT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CASHEW",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CASSAVA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CASSEROLE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CATER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CAULIFLOWER",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CAYENNE PEPPER",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "CELERY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CEREAL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHARD",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHEDDAR",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHEESE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHEESECAKE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CHEF",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHERRY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHEW",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHICKEN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHICK PEAS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CHILI",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHIPS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHIVES",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHOCOLATE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CHOPSTICKS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CHOW",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHUTNEY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CILANTRO",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CINNAMON",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CITRON",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CITRUS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CLAM",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CLOVES",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COBBLER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COCONUT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COD",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COFFEE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COLESLAW",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "COLLARD GREENS",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "COOK",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COOKIE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CORN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CORNFLAKES",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CORNMEAL",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "COTTAGE CHEESE",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "CRAB",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CRACKERS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CRANBERRY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CREAM",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CREAM CHEESE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CREPE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CRISP",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CRUNCH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CRUST",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CUCUMBER",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CUISINE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CUPBOARD",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CUPCAKE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CURDS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CURRENTS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CURRY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CUSTARD",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DAIKON",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DAIRY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DANDELION GREENS",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "DANISH PASTRY",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "DATES",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DESSERT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DIET",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DIGEST",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DIGESTIVE SYSTEM",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "DILL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DINE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DINER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DINNER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DIP",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DISH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DOUGH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DOUGHNUT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DRAGONFRUIT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DRESSING",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DRIED",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DRINK",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DRY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DURIAN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EAT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EDAM CHEESE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "EGG",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EGGPLANT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ELDERBERRY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ENDIVE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ENTREE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FAST",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FAVA BANS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FED",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FEED",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FENNEL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FIG",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FILLET",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FIRE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FISH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FLAN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FLAX",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FLOUR",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FOOD",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FOOD PYRAMID",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FORK",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FREEZER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FRENCH FRIES",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FRIED",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FRITTER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FROSTING",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FRUIT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FRY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GARLIC",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GASTRONOMY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GELATIN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GINGER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GINGERALE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GINGERBREAD",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GLASSES",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GOUDA CHEESE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GRAIN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GRANOLA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GRAPE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GRAPEFRUIT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GRATED",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GRAVY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GREENBEAN",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GREENS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GYRO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GUAVA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HERBS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HALIBUT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HAM",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HAMBURGER",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HASH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HAZELNUT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HERBS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HONEY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HONEYDEW",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HORSERADISH",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HOT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HOT DOG",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HOT SAUCE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HUMMUS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HUNGER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HUNGRY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ICE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ICEBERG LETTUCE",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "ICED TEA",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ICING",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ICE CREAM",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ICE CREAM CONE",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "JACKFRUIT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "JALAPENO",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "JAM",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JELLY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JELLYBEANS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "JICAMA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JIMMIES",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JORDAN ALMONDS",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "JUG",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JUICE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KALE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KEBAB",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KETCHUP",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KETTLE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KIDNEY BEANS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "KITCHEN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KIWI",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KNIFE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KOHLRABI",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "KUMQUAT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LADLE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LAMB",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LARD",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LASAGNA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LEGUMES",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LEMON",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LEMONADE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LENTILS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LETTUCE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LICORICE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LIMA BEANS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LIME",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LIVER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LOAF",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LOBSTER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LOLLIPOP",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LOQUAT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LOX",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LUNCH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LUNCHMEAT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LYCHEE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MACARONI",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MACAROON",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MAIN COURSE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MAIZE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MANDARIN ORANGE",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "MANGO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MAPLE SYRUP",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MARGARINE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MARIONBERRY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MARMALADE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MARSHMALLOW",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MASHED",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MAYONNAISE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MEAT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MEATBALLS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MEATLOAF",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MELON",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MENU",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MERINGUE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MILK",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MILKSHAKE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MILLET",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MINCEMEAT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MINERALS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MINT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MINTS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MOLASSES",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MOZZARELLA",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MUFFIN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MUG",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MUNCH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MUSHROOM",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MUSSELS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MUSTARD",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MUSTARD GREENS",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "MUTTON",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NAPKIN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NECTAR",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NECTARINE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NIBBLE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NOODLES",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NOSH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NOURISH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NOURISHMENT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NUT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NUTMEG",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OATS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OATMEAL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OIL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OKRA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OLEO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OLIVE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OMELET",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OMNIVORE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ONION",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ORANGE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ORDER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OREGANO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OVEN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OYSTER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PAN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PANCAKE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PAPAYA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PARSLEY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PARSNIP",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PASTA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PASTRY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PATE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PATTY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PATTYPAN SQUASH",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "PEACH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PEANUT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PEANUTBUTTER",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PEA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PEAR",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PECAN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PEAPOD",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PEPPER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PEPPERONI",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PERSIMMON",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PICKLE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PICNIC",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PIE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PILAF",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PINEAPPLE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PITA BREAD",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PITCHER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PIZZA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PLATE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PLATTER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PLUM",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POACHED",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POMEGRANATE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "POMELO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POP",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POPSICLE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "POPCORN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POPOVERS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PORK",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PORK CHOPS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "POT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POTATO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PRESERVES",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PRETZEL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PROTEIN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PRUNE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PUDDING",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PUMPERNICKEL",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PUMPKIN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PUNCH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "QUICHE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "QUINOA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RADISH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RAISIN",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RASPBERRY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "RAVIOLI",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RECIPE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "REFRIGERATOR",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "RELISH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RESTAURANT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "RHUBARB",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RIBS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RICE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ROAST",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ROLL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ROLLING PIN",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ROMAINE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ROSEMARY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "RYE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SAFFRON",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SAGE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SALAD",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SALAMI",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SALMON",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SALSA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SALT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SANDWICH",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SAUCE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SAUERKRAUT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SAUSAGE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SAVORY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SCALLOPS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SCRAMBLED",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SEAWEED",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SEEDS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SESAME SEED",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SHALLOTS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SHERBET",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SHISH KEBAB",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SHRIMP",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SLAW",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SLICE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SMOKED",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SODA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SOLE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SORBET",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SORGHUM",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SORREL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SOUP",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SOUR",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SOUR CREAM",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SOY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SOYBEANS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SOYSAUCE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SPAGHETTI",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SPARERIBS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SPATULA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPICES",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPINACH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPOON",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPORK",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPRINKLES",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SPROUTS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPUDS",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SQUASH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SQUID",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STEAK",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STEW",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STIR FRY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "STOMACH",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STOVE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STRAW",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STRAWBERRY",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "STRING BEAN",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "STRINGY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STRUDEL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SUCCOTASH",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SUGAR",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SUMMER SQUASH",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "SUNDAE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SUNFLOWER",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SUPPER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SUSHI",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SWEET",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SWEET POTATO",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SWISS CHARD",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SYRUP",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TACO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TAKE OUT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TAMALE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TANGERINE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TAPIOCA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TARO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TARRAGON",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TART",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TEA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TEAPOT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TERIYAKI",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "THYME",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOAST",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOASTER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOFFEE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOFU",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOMATILLO",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TOMATO",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TORTE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TORTILLA",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TUBER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TUNA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TURKEY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TURMERIC",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TURNIP",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "UGLI FRUIT",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "UNLEAVENED",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "UTENSILS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "VANILLA",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VEAL",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VEGETABLE",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "VENISON",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VINEGAR",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VITAMINS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WAFER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WAFFLE",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WALNUT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WASABI",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WATER",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WATER CHESTNUT",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "WATERCRESS",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WATERMELON",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WHEAT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WHEY",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WHIPPED CREAM",
+    "category": "Food",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "WOK",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "YAM",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "YEAST",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "YOGURT",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "YOLK",
+    "category": "Food",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ZUCCHINI",
+    "category": "Food",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "AARDVARK",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ABALONE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "AFRICAN WILD CAT",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "ALBATROSS",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ALGAE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "AGOUTI",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ALPACA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "AMOEBA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "AMERICAN BISON",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "AMPHIBIAN",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ANT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ANTEATER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ANTELOPE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "APE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "APHID",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ARACHNID",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ARCTIC FOX",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ARCTIC WOLF",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ARMADILLO",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ARTHROPOD",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "AYE AYE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BABOON",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BADGER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BANDICOOT",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BARNACLE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BARRACUDA",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BASS",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BAT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BEAR",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BEAVER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BEDBUG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BEE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BILBY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BISON",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BIVALVE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BLACK BEAR",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BLACK BEAR HAMSTER",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "BLACKBIRD",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BLUEBIRD",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BLUEJAY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BLUE WHALE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BOBCAT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BONGO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BONOBO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOWHEAD WHALE",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "BRITTLE STAR",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BROWN BEAR",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BUG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BUFFALO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BULL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BULLFROG",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BUMBLEBEE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BUSHBABY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BUTTERFLY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CAMEL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CANARY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CAPE BUFFALO",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CAPYBERA",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CARACAL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CARDINAL",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CARIBOU",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CARNIVORA",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CARPENTER ANT",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "CASSOWARY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CAT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CATERPILLAR",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CATTLE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CAVY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHEETAH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHICKADEE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CHICKEN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHIMIPANZEE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CHINCHILLA",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CHIPMUNK",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CHITON",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHRYSALIS",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CICADA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CLAM",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COATI",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COCKATOO",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "COD",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COELACANTH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "COCKROACH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "COLLARED PECCARY",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "COLUGO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CONCH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COPEPOD",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CORAL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COUGAR",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COW",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COYOTE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COYPU",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CRAB",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CRANE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CRICKET",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CROW",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CRUSTACEAN",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CUTTLEFISH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CUTWORM",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DAMSELFLY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DEER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DHOLE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DIATOM",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DINGO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DODO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DOG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DOGFISH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DOLPHIN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DONKEY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DOVE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DRAGONFLY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DROMEDARY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DUCK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DUGONG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DUCK BILLED PLATYPUS",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "EAGLE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EARTHWORM",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "EARWIG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ECHIDNA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EEL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EGG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EGRET",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EKALTADELTA",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ELAND",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ELEPHANT",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ELEPHANT SEAL",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "ELK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EMU",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ERMINE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FALCON",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FERRET",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FINCH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FIN WHALE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FIREANT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FIREFLY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FISH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FLAMINGO",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FLATWORM",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FLEA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FLOUNDER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FLY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FLYING FISH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FLYING SQUIRREL",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "FOSSA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FOWL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FOX",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FROG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FRUIT BAT",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GALAGOS",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GAR",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GAZELLE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GERBIL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GIANT SQUID",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GIBBON",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GIRAFFE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GNAT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GNU",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GOAT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GOLDFINCH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GOOSE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GOPHER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GORILLA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GRASSHOPPER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GRAY WHALE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GREAT APES",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GRIZZLY BEAR",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GROUNDHOG",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GROUPER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GROUSE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GRUB",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GUINEA PIG",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GULL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HAMMERHEAD SHARK",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "HAMSTER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HARES",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HARP SEAL",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HAWK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HEDGEHOG",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HEN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HERMIT CRAB",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HERON",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HERRING",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HIPPO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HIPPOPOTAMUS",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HONEY BEE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HORNET",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HORSE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HORSESHOE CRAB",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "HOUSEFLY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HOWLER MONKEY",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "HUMAN BEING",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HUMMINGBIRD",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HUMPBACK WHALE",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "HYENA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HYRAX",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "IBIS",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "IMAGO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "IMPALA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "INSECT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "INSECTIVORES",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ISOPOD",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JAGUAR",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JAVELINA",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "JAY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JELLYFISH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "JUMPING BEAN",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "JUNEBUG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JUNCO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KAKAPO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KANGAROO",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "KATYDID",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KILLER WHALE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "KINKAJOU",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "KIWI",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KOALA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KOOKABURRA",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "KRILL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KUDU",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LADYBUG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LAGOMORPH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LARVA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LEMMING",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LEMUR",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LEOPARD",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LICE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LIMPET",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LION",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LLAMA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LOBSTER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LOCUST",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LOGGEREHAD TURTLE",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "LONGHORN",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LOON",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LORIKEET",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LORIS",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LOUSE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LYNX",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MACAQUE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MACAW",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MACKEREL",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MAGGOT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MAKO SHARK",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MALLARD DUCK",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MAMMAL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MAMMOTH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MANATEE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MANDRILL",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MAN O WAR",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MANTA RAY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MANTID",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MARINE MAMMALS",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "MARMOSET",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MARMOT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MARSUPIAL",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MASTODON",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MEADOWLARK",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MEALWORM",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MEERKAT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MERGANSER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MIDGE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MINK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MICE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MOCKINGBIRD",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MOLE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MOLLUSK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MONARCH BUTTERFLY",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "MONGOOSE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MONKEY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MOOSE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MORAY EEL",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MORPHO BUTTERFLY",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "MOSQUITO",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MOTH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MOUSE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MUDPUPPY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MUSK OX",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MUSKRAT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MUSSELS",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MUSTELIDS",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NABARLEK",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NAKED MOLE RAT",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "NANDU",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NARWHAL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NAUTILUS",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NEWT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NUMBAT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NUTHATCH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NUTRIA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NYMPH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OCELOT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OCTOPUS",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OKAPI",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ONAGER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OPOSSUM",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ORANGUTAN",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ORCA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ORIOLE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ORYX",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OSTRICH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OTTER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OWL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OX",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OXPECKER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "OYSTER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PANDA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PANGOLIN",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PANTHER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PARAKEET",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PARROT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PEACOCK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PEAFOWL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PELICAN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PENGUIN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PETREL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PIG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PIKA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PINNIPED",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PLACENTAL",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PLANKTON",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PLATYPUS",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PLOVER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POLAR BEAR",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "POLLIWOG",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "POMPANO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PORCUPINE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PORPOISE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PRIMATES",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PRONGHORN",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PROTOZOAN",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PUFFERFISH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PUFFIN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PUMA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PUPA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "QUAGGA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "QUAIL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "QUEEN CONCH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "QUETZAL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "QUOKKA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "QUOLL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RABBIT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RACCOON",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RAT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RAY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RED KANGAROO",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "RED PANDA",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "REINDEER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "REPTILE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RHEA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RHINO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RHINOCEROS",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "RIGHT WHALE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "RING TAILED LEMUR",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "RINGTAIL POSSUM",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "RIVER OTTER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ROADRUNNER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ROACH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ROBIN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RODENT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ROOSTER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ROUNDWORM",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SAILFISH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SALAMANDER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SALMON",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SAND DOLLAR",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SANDPIPER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SCALLOP",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SCORPION",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SEA ANEMONE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SEA COW",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SEAL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SEALION",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SEA OTTER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SEA CUCUMBER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SEA STAR",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SEA TURTLE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SEA URCHIN",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SEA WORM",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SERVAL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SHEEP",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SHREW",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SHRIMP",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SIAMANG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SILKWORM",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SILVERFISH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SKIPPER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SKUNK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SLOTH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SNAIL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SNAPPER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPARROW",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPIDER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPINY ANTEATER",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "SPONGE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPRINGTAIL",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SQUIRREL",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "STARFISH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "STARLING",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "STINGRAY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "STONEFLY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "STORK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SUGAR GLIDER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SUNFISH",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SWALLOWTAIL BUTTERFLY",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "SWAN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SWIFT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SWORDFISH",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TADPOLE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TAMARIN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TANAGER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TAPIR",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TARANTULA",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TARPON",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TARSIER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TASMANIAN DEVIL",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "TASMANIAN TIGER",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "TERMITE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TERN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "THREE TOED SLOTH",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "THRIP",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TICK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TIGER",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOAD",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TORTOISE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TOUCAN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TREEFROG",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TREESHREW",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TSETSE FLY",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TUNA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TURKEY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TURTLE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "UMBRELLABIRD",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "UNGULATES",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "URCHIN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VAMPIRE BAT",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "VICEROY BUTTERFLY",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "VIRGINIA OPOSSUM",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "VULTURE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WALLABY",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WALKINGSTICK",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WALRUS",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WARTHOG",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WASP",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WATERBUG",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WEASEL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WEDDELL SEAL",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WEEVIL",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WHALE",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WHALE SHARK",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WHELK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WILDEBEEST",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WOLVERINE",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WOODLAND CARIBOU",
+    "category": "Animal",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "WOODPECKER",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WOLF",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WOMBAT",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WORM",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WOODCHECK",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WREN",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "XENOPS",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "YAK",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "YELLOWJACKET",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ZEBRA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ZOOPLANKTON",
+    "category": "Animal",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ZORILLA",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ZORRO",
+    "category": "Animal",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ANORAK",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "APRON",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ASCOT TIE",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BALACLAVA",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BALL GOWN",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BANDANNA",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BASEBALL CAP",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BATHING SUIT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BEANIE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BELL BOTTOMS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BELT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BERET",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BIB",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BIKINI",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BLAZER",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BLOOMERS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BLOUSE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOA",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BONNET",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOOT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOW",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOW TIE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOXER SHORTS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BOXERS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BRA",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BRACELET",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BRIEFS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BUCKLE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BUTTON",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BUTTON DOWN SHIRT",
+    "category": "Clothes",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "CAMISOLE",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CAP",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CAP AND GOWN",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CAPE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CAPRIS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CARDIGAN",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CLOAK",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CLOGS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COAT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COLLAR",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COSTUME",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COWBOY BOOTS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "COWBOY HAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CROWN",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CUFF",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CUFF LINKS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CULOTTES",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DIAPER",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DINNER JACKET",
+    "category": "Clothes",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "DIRNDL",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DRESS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EARMUFFS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "EARRINGS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "EVENING GOWN",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FASHION",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FEDORA",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FEZ",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FLAK JACKET",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FLANNEL NIGHTGOWN",
+    "category": "Clothes",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "FLANNEL SHIRT",
+    "category": "Clothes",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "FLIP FLOPS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FORMAL WEAR",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FROCK",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FUR",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FUR COAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GALOSHES",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GARMENT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GARTERS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GLASSES",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GLOVES",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GOWN",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HALTER TOP",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HANDBAG",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HANDKERCHIEF",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HAT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HAWAIIAN SHIRT",
+    "category": "Clothes",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "HAZMAT SUIT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HELMET",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HEM",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HIGH HEELS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HOODIE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HOOK AND EYE",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HOSIERY",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HOSPITAL GOWN",
+    "category": "Clothes",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "HOUSECOAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "JACKET",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JEANS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JEWELRY",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JUMPER",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JUMPSUIT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "KERCHIEF",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "KHAKIS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KILT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KIMONO",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LAB COAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LAPELS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LEATHER JACKET",
+    "category": "Clothes",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "LEGGINGS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LEOTARD",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LIFE JACKET",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LOAFERS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LONGJOHNS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MINISKIRT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MITTENS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MOCCASINS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MUFFLER",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NECKERCHIEF",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NECKLACE",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NIGHTGOWN",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NIGHTSHIRT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "OUTERWEAR",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "OVERALLS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "OVERCOAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PAJAMAS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PANAMA HAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PANTS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PANTSUIT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PANTYHOSE",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PARKA",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PEA COAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PETTICOAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PINAFORE",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PLEAT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POCKET",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POCKETBOOK",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "POLO SHIRT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PONCHO",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PORKPIE HAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PULLOVER",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PUMPS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PURSE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RAINCOAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "RING",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ROBE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RUGBY SHIRT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SANDALS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SARI",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SARONG",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SCARF",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SCHOOL UNIFORM",
+    "category": "Clothes",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "SHEATH DRESS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SHIFT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SHIRT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SHOE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SHORTS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SKIRT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SLACKS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SLIP",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SLIPPERS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SMOCK",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SNAPS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SNEAKERS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SOCK",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPACESUIT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "STETSON HAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "STOCKINGS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SUIT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SUNBONNET",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SUNDRESS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SUNGLASSES",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SUN HAT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SUSPENDERS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SWEATER",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SWEATS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SWIMSUIT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "T SHIRT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TAM",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TANK TOP",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TIARA",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TIE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TIE CLIP",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TIGHTS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOGA",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOP HAT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TRAIN",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TRUNKS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TURTLENECK",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TUTU",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TRENCH COAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TROUSERS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TRUNKS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TUBE TOP",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TUNIC",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TURBAN",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TURTLE NECK SHIRT",
+    "category": "Clothes",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "TUX",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TUXEDO",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TWEED JACKET",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "UNDERSHIRT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "UNDERWEAR",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "UNIFORM",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VEIL",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VELCRO",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VEST",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VESTMENTS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "VISOR",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WADERS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WAISTCOAT",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WEDDING GOWN",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WELLINGTONS",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WETSUIT",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WINDBREAKER",
+    "category": "Clothes",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "YOKE",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ZIPPER",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ZORIS",
+    "category": "Clothes",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ABDOMEN",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ADAMS APPLE",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ADENOIDS",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ADRENAL GLAND",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "ANATOMY",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ANKLE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ANUS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "APPENDIX",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ARCH",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ARM",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ARTERY",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BACK",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BALL OF THE FOOT",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "BIG TOE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BLADDER",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BLOOD",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BLOOD VESSELS",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "BODY",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BONE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BRAIN",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BREAST",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BUTTOCKS",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CALF",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CARPAL",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CARTILAGE",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CERVICAL VERTEBRAE",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "CHEEK",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHEST",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHEST",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHIN",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CIRCULATORY SYSTEM",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "CLAVICLE",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "COCCYX",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COLLAR BONE",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DIAPHRAGM",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DIGESTIVE SYSTEM",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "EAR",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EAR LOBE",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "ELBOW",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ENDOCRINE SYSTEM",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "ESOPHAGUS",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "EYE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EYEBROW",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EYELASHES",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "EYELID",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FACE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FALLOPIAN TUBES",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "FEET",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FEMUR",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FIBULA",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FILLING",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FINGER",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FINGERNAIL",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FOLLICLE",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FOOT",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FOREHEAD",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GALLBLADDER",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GLANDS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GROIN",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GUMS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HAIR",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HAND",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HEAD",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HEART",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HEEL",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HIP",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HUMERUS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "IMMUNE SYSTEM",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "INSTEP",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "INDEX FINGER",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "INTESTINES",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "IRIS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JAW",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KIDNEY",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KNEE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LARYNX",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LEG",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LIGAMENT",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LIP",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LIVER",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LOBE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LUMBAR VERTEBRAE",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "LUNGS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LYMPH NODE",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MANDIBLE",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "METACARPAL",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "METATARSAL",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MOLAR",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MOUTH",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MUSCLE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NAIL",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NAVEL",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NECK",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NERVES",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NIPPLE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NOSE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NOSTRIL",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ORGANS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OVARY",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PALM",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PANCREAS",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PATELLA",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PELVIS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PHALANGES",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PHARYNX",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PINKY",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PITUITARY",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PORE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PUPIL",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RADIUS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RECTUM",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RED BLOOD CELLS",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "RESPIRATORY SYSTEM",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "RIBS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SACRUM",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SCALP",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SCAPULA",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SENSES",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SHOULDER",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SHOULDER BLADE",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "SKELETON",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SKIN",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SKULL",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SOLE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPINAL COLUMN",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "SPINAL CORD",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SPINE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPLEEN",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STERNUM",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STOMACH",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TARSAL",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TEETH",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TENDON",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TESTES",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "THIGH",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "THROAT",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "THUMB",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "THYROID",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TIBIA",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOENAIL",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TONGUE",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TONSILS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TOOTH",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TORSO",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TRACHEA",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ULNA",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "URETER",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "URETHRA",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "URINARY SYSTEM",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "UTERUS",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "UVULA",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VEIN",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VERTEBRA",
+    "category": "Human Body",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WAIST",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WHITE BLOOD CELLS",
+    "category": "Human Body",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "WRIST",
+    "category": "Human Body",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ARCHERY",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ARENA",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ARROW",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ATHLETE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ATHLETICS",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BALL",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BASE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BASEBALL",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BASKETBALL",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "BAT",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BATON",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BATTER",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BICYCLE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BIKE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOCCE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOW",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BOWLING",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "BUNT",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CATCH",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CATCHER",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CHAMPION",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CLEATS",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CLUB",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "COMPETITION",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "COMPETITOR",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CROSS COUNTRY",
+    "category": "Sports",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "CURLING",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "CYCLING",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DART",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DARBOARD",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DEFENSE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DIAMOND",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DISCUS",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "DIVE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EPEE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "EQUIPMENT",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "EXERCISE",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FIELD",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FIELDER",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "FOOTBALL",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "GAME",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GEAR",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GO",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GOAL",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GOALIE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GOLF",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GUARD",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GYM",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GYMNASTICS",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HALFTIME",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HANDBALL",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HANG GLIDING",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HARDBALL",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HELMET",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HIGH JUMP",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HOLE IN ONE",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HOME",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HOME PLATE",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HOME TEAM",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "HOCKEY",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HOOP",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ICE SKATES",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "INFIELD",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "INLINE SKATES",
+    "category": "Sports",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "INNING",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JAVELIN",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JOG",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JUDO",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JUMP",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "JUMP ROPE",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "KARATE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KNEEPADS",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LEAGUE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LOSE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "LUGE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MAJOR LEAGUE",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MARTIAL ARTS",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MAT",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MEDAL",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MINOR LEAGUE",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MITT",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MOVE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MVP",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NET",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OFFENSE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OLYMPICS",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "OUT",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OUTFIELD",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PADDLE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PING PONG",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "PITCH",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PITCHER",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PLAY",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PLAYER",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PLAYOFFS",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "POLE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POLO",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "POOL",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PUCK",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "QUARTER",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "QUARTERBACK",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "RACE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RACKET",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "REFEREE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RELAY",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RIDE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ROLLER SKATES",
+    "category": "Sports",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "RUGBY",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "RUN",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SCORE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SCOREBOARD",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SCUBA",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SHORTSTOP",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SKI",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SLED",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SNOWBOARD",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SOCCER",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SOFTBALL",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SOMERSAULT",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SPORT",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SPORTSMANSHIP",
+    "category": "Sports",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "SQUASH",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STADIUM",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STICK",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STRIKE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "STROKE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "SWIM",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TABLE TENNIS",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TARGET",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TEAM",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TEAMMATE",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TEE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TENNIS",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TETHERBALL",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "THROW",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TIE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "TRACK AND FIELD",
+    "category": "Sports",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "TRAMPOLINE",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "UMPIRE",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "UNICYCLE",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "UNIFORM",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VAULT",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VISITING TEAM",
+    "category": "Sports",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "VOLLEY",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VOLLEY BALL",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WALK",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WATERSKI",
+    "category": "Sports",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WETSUIT",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "WIN",
+    "category": "Sports",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ALABAMA",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ALASKA",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ARIZONA",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ARKANSAS",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CALIFORNIA",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "COLORADO",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "CONNECTICUT",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "DELAWARE",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "FLORIDA",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "GEORGIA",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "HAWAII",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "IDAHO",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "ILLINOIS",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "INDIANA",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "IOWA",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KANSAS",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "KENTUCKY",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "LOUISIANA",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MAINE",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "MARYLAND",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MASSACHUSETTS",
+    "category": "U.S. States",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "MICHIGAN",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MINNESOTA",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MISSISSIPPI",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MISSOURI",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "MONTANA",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NEBRASKA",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NEVADA",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "NEW HAMPSHIRE",
+    "category": "U.S. States",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "NEW JERSEY",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NEW MEXICO",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NEW YORK",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "NORTH CAROLINA",
+    "category": "U.S. States",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "NORTH DAKOTA",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "OHIO",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "OKLAHOMA",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "OREGON",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "PENNSYLVANIA",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "RHODE ISLAND",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "SOUTH CAROLINA",
+    "category": "U.S. States",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "SOUTH DAKOTA",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TENNESSEE",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "TEXAS",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "UTAH",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VERMONT",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  },
+  {
+    "word": "VIRGINIA",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WASHINGTON",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WEST VIRGINIA",
+    "category": "U.S. States",
+    "difficulty": "Hard"
+  },
+  {
+    "word": "WISCONSIN",
+    "category": "U.S. States",
+    "difficulty": "Medium"
+  },
+  {
+    "word": "WYOMING",
+    "category": "U.S. States",
+    "difficulty": "Easy"
+  }
+]
