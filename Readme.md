@@ -2,13 +2,13 @@
 Hangman
 </h1>
 
-###Description
+### Description
 Hangman game using JavaFX. Includes 3 difficulties and uses 1,500+ words with their respective categories.
 There are 3 difficulties Easy, Medium, Hard. Easy has 6 guesses of words containing less than 8 letters. Medium and hard
 both have only 4 guesses. Medium shows words containing 8-12 letters and Hard shows words with 12+ letters.
 <br/>
 
-#Table of Contents
+# Table of Contents
 1. [Requirements](#requirements)
 2. [Installation](#installation)
 3. [Usage](#usage)
