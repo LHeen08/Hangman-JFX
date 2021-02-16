@@ -37,6 +37,7 @@ Run the app in your preferred IDE
 
 
 # Change-pom.xml
+If using another java version besides 8 change the pom.xml accordingly
 ```
     <properties>
         <maven.compiler.source>{Enter java version here}</maven.compiler.source>
